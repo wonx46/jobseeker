@@ -32,8 +32,8 @@ Installation
 6. Check that all .htaccess files were uploaded
 
 Default admin login info: 
-Email: admin@example.com
-Password: admin
+Email: admin@jobseeker.com
+Password: password
 
 Installation Notes
 ------------------
@@ -57,7 +57,7 @@ ADMIN ACCOUNT
 You can look for this line in the .sql file
 
 ﻿`INSERT INTO admin (id, email, password) VALUES
-(1, 'admin@example.com', 'd033e22ae348aeb5660fc2140aec35850c4da997')`;
+(1, 'admin@jobseeker.com', '5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8')`;
 
 ﻿and change it with the values you want:
 
